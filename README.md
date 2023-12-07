@@ -1,8 +1,6 @@
 # googlesearch
 googlesearch is a Python library for searching Google, easily. googlesearch uses requests and BeautifulSoup4 to scrape Google. 
 
-## Revision 1
-- [revison1 info](#rev1)
 ## Installation
 To install, run the following command:
 ```bash
@@ -43,8 +41,8 @@ from googlesearch import search
 search("Google", sleep_interval=5, num_results=200)
 ```
 ## Rev-1
-<img src="screenshot/screenshot.png" width=200">
-### usuage example
+![Screenshot](screenshot/Screenshot.png)
+### Usage example
 ```python
 from googlesearch import Search
 query = "programming"
